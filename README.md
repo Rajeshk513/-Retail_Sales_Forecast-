@@ -1,17 +1,20 @@
 # Retail_Sales_Forecast
+
 # python packages:
-  import pandas as pd 
-  import numpy as np
-  import streamlit as st
-  from streamlit_option_menu import option_menu
-  from PIL import Image
-  import joblib
-  from sklearn.ensemble import RandomForestRegressor
-  import streamlit.components.v1 as components
-  from sklearn.tree import DecisionTreeClassifier
-  from sklearn.model_selection import train_test_split
-  from sklearn import metrics
-  from sklearn.preprocessing import OrdinalEncoder
+  used:
+  
+    import pandas as pd 
+    import numpy as np
+    import streamlit as st
+    from streamlit_option_menu import option_menu
+    from PIL import Image
+    import joblib
+    from sklearn.ensemble import RandomForestRegressor
+    import streamlit.components.v1 as components
+    from sklearn.tree import DecisionTreeClassifier
+    from sklearn.model_selection import train_test_split
+    from sklearn import metrics
+    from sklearn.preprocessing import OrdinalEncoder
 # DATA CLEANING
 
 Remove Duplicate Entries:
